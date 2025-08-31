@@ -7,13 +7,15 @@ Track your daily expenses, update records, filter by tag or date, and view summa
 
 ## Demo
 
-### GIF Demo
+Quick preview:
 
 ![Expense Tracker Demo](demo/expense_tracker_demo.gif)
 
-### Video Demo
+Full demo video:
 
-[Watch the demo video](demo/expense_tracker_demo.mp4)
+[![Expense Tracker Demo Video](https://img.youtube.com/vi/sRVQ3uv_TH4/0.jpg)](https://youtu.be/sRVQ3uv_TH4)
+
+_(Click the image above to watch the demo on YouTube)_
 
 ---
 
